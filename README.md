@@ -8,15 +8,6 @@
 
 ---
 
-## 🗂 Project Structure
-
-ppr/
-├── database/
-├── algorithms/
-└── aws/
-
----
-
 ## 📁 Modules Overview
 
 ### 1. `database/` – ACID Property Demonstration
